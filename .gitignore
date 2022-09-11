@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 start.sh
+startInScreen.sh
+autoStart.service

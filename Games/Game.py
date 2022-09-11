@@ -21,8 +21,8 @@ class Game(commands.Cog):
 
         Parameters
         ----------
-        name: Name of the gameyou want made
-        desc: Descript how you would like this implented
+        name: Name of the game you want made
+        desc: Description how you would like this implented
         link: link to the game
         """
         pizzaUser = await bot.fetch_user("425797167228387340")
